@@ -1,7 +1,7 @@
 # vue-slider-third
 
 > A Vue.js project
-
+ vue原生轮播组件
 ## Build Setup
 
 ``` bash
